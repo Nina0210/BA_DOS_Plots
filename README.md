@@ -5,7 +5,7 @@ Genau die gleichen Graphen möchte ich noch für verschiedene edges machen.
 
 
 ![Runtime vs. Nodes on Minimal Viable Memory](./plots/nodes_vs_edges_method.png)
-Hier dachte ich, könnt eman ganz gut zeigen welche Methode für welche Graphen am besten geeignet ist. Die schnellere Methode "gewinnt" und die Größe der Bubbles zeigt an wie viel Memory die Methode dabei minimal braucht. Das sieht irgendwie komisch aus für mich aber ich weiß nicht wie man es besser darstellen könnte.
+Hier dachte ich, könnte man ganz gut zeigen welche Methode für welche Graphen am besten geeignet ist. Die schnellere Methode "gewinnt" und die Größe der Bubbles zeigt an wie viel Memory die Methode dabei minimal braucht. Das sieht irgendwie komisch aus für mich aber ich weiß nicht wie man es besser darstellen könnte.
 
 
 
