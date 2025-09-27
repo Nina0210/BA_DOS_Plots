@@ -17,7 +17,7 @@
 * Hier wird die Ähnlichkeit der der top 20 Monte Carlo Ranks zu denen der GraphX Methode verglichen
 * Je mehr Knoten in der Schnittmenge der beiden Ranks sind, desto höher die Ähnlichkeit (skala von 0 bis 1) 
 
-
+Es werden noch andere real world Graphen analysiert
 
 # Synthetische Graphen: Erdős–Rényi
 * Hier habe ich ER Graphen verschiedener Größen erstellt
