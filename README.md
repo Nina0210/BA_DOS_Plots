@@ -1,18 +1,21 @@
 # Real-world Graphs
 ## wiki-Talk Graph 
 
-![edges GiB-hours vs Nodes](plots/wiki-Talk/gbhrs_nodes_v2.pdf)
+![edges GiB-hours vs Nodes](plots/wiki-Talk/gbhrs_nodes_wiki_talk.pdf)
 * cost Graph
 * GiB-hours = allocated memory in GiB * runtime (per executor)
 * beschreibt die Fläche unter dem memory-runtime Graphen 
 
 
-![Nodes vs minimal memory](plots/wiki-Talk/memory_vs_runtime_3wpn_v2.pdf)
+![Nodes vs minimal memory](plots/wiki-Talk/memory_vs_runtime_wiki_talk.pdf)
 * zeigt memory allocted per executor vs runtime
 * Kreuze sind runs mit out of memory Fehler
 * Dreiecke sind runs mit timeout (30 Minuten)
 
-Hier kommt noch ein Accuracy Plot und noch mehr real world Graphen
+  
+![Nodes vs minimal memory](plots/wiki-Talk/accuracy_plots_wiki_talk.pdf)
+
+
 
 # Synthetische Graphen: Erdős–Rényi
 * Hier habe ich ER Graphen verschiedener Größen erstellt
